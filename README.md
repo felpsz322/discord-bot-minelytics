@@ -1,1 +1,1 @@
-Discord bot for Minecradt Server
+Discord bot for Minecraft Server
